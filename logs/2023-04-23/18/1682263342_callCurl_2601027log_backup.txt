@@ -1,0 +1,60 @@
+array (
+  'url' => 'https://b24-am5g24.bitrix24.ru/rest/imbot.message.add.json',
+  'info' => 
+  array (
+    'url' => 'https://b24-am5g24.bitrix24.ru/rest/imbot.message.add.json',
+    'content_type' => 'application/json; charset=utf-8',
+    'http_code' => 200,
+    'header_size' => 1189,
+    'request_size' => 194,
+    'filetime' => -1,
+    'ssl_verify_result' => 0,
+    'redirect_count' => 0,
+    'total_time' => 0.204884000000000010555112339716288261115550994873046875,
+    'namelookup_time' => 0.000751000000000000039919456629178284856607206165790557861328125,
+    'connect_time' => 0.01123200000000000066402439102830612682737410068511962890625,
+    'pretransfer_time' => 0.040390000000000002289279876777072786353528499603271484375,
+    'size_upload' => 132,
+    'size_download' => 289,
+    'speed_download' => 1416,
+    'speed_upload' => 647,
+    'download_content_length' => -1,
+    'upload_content_length' => 132,
+    'starttransfer_time' => 0.040418000000000002536193477453707600943744182586669921875,
+    'redirect_time' => 0,
+    'redirect_url' => '',
+    'primary_ip' => '89.208.228.119',
+    'certinfo' => 
+    array (
+    ),
+    'primary_port' => 443,
+    'local_ip' => '87.236.20.87',
+    'local_port' => 53955,
+  ),
+  'params' => 
+  array (
+    'method' => 'imbot.message.add',
+    'params' => 
+    array (
+      'BOT_ID' => 10,
+      'DIALOG_ID' => 'chat10',
+      'MESSAGE' => 'ÐÎÌÀØÊÀ',
+      'auth' => '7759456400633ad800633aca000000010000074ae13dde5fc83d2b412d7ba13782cc04',
+    ),
+  ),
+  'result' => 
+  array (
+    'result' => 34,
+    'time' => 
+    array (
+      'start' => 1682263342.762343883514404296875,
+      'finish' => 1682263342.8610060214996337890625,
+      'duration' => 0.0986621379852294921875,
+      'processing' => 0.03979206085205078125,
+      'date_start' => '2023-04-23T18:22:22+03:00',
+      'date_finish' => '2023-04-23T18:22:22+03:00',
+      'operating_reset_at' => 1682263942,
+      'operating' => 0.1630229949951171875,
+    ),
+  ),
+)

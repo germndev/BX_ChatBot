@@ -1,0 +1,60 @@
+array (
+  'url' => 'https://pechenki78.bitrix24.ru/rest/imbot.message.add.json',
+  'info' => 
+  array (
+    'url' => 'https://pechenki78.bitrix24.ru/rest/imbot.message.add.json',
+    'content_type' => 'application/json; charset=utf-8',
+    'http_code' => 200,
+    'header_size' => 1186,
+    'request_size' => 194,
+    'filetime' => -1,
+    'ssl_verify_result' => 0,
+    'redirect_count' => 0,
+    'total_time' => 0.190730000000000010640377468007500283420085906982421875,
+    'namelookup_time' => 0.000625000000000000013010426069826053208089433610439300537109375,
+    'connect_time' => 0.0191169999999999985773602162453244091011583805084228515625,
+    'pretransfer_time' => 0.06716800000000000547828449271037243306636810302734375,
+    'size_upload' => 134,
+    'size_download' => 290,
+    'speed_download' => 1526,
+    'speed_upload' => 705,
+    'download_content_length' => -1,
+    'upload_content_length' => 134,
+    'starttransfer_time' => 0.067188999999999998724575789310620166361331939697265625,
+    'redirect_time' => 0,
+    'redirect_url' => '',
+    'primary_ip' => '178.132.201.51',
+    'certinfo' => 
+    array (
+    ),
+    'primary_port' => 443,
+    'local_ip' => '87.236.20.87',
+    'local_port' => 58379,
+  ),
+  'params' => 
+  array (
+    'method' => 'imbot.message.add',
+    'params' => 
+    array (
+      'BOT_ID' => 20,
+      'DIALOG_ID' => 'chat4',
+      'MESSAGE' => '21432 вававы',
+      'auth' => 'a540456400633a58006320c800000001000007d5ea74e7c8483bbf4e91dea0d7f67251',
+    ),
+  ),
+  'result' => 
+  array (
+    'result' => 294,
+    'time' => 
+    array (
+      'start' => 1682256658.261725902557373046875,
+      'finish' => 1682256658.3249950408935546875,
+      'duration' => 0.063269138336181640625,
+      'processing' => 0.0309350490570068359375,
+      'date_start' => '2023-04-23T16:30:58+03:00',
+      'date_finish' => '2023-04-23T16:30:58+03:00',
+      'operating_reset_at' => 1682257258,
+      'operating' => 0.206470966339111328125,
+    ),
+  ),
+)

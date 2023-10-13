@@ -1,0 +1,49 @@
+array (
+  'url' => 'https://b24-zdiivv.bitrix24.ru/rest/imbot.message.add.json',
+  'info' => 
+  array (
+    'url' => 'https://b24-zdiivv.bitrix24.ru/rest/imbot.message.add.json',
+    'content_type' => 'application/json; charset=utf-8',
+    'http_code' => 400,
+    'header_size' => 858,
+    'request_size' => 194,
+    'filetime' => -1,
+    'ssl_verify_result' => 0,
+    'redirect_count' => 0,
+    'total_time' => 0.1342029999999999889670476704850443638861179351806640625,
+    'namelookup_time' => 0.001968000000000000131172850359462245251052081584930419921875,
+    'connect_time' => 0.01191399999999999924360505332288084900937974452972412109375,
+    'pretransfer_time' => 0.0435979999999999978665954358802991919219493865966796875,
+    'size_upload' => 143,
+    'size_download' => 350,
+    'speed_download' => 2611,
+    'speed_upload' => 1067,
+    'download_content_length' => -1,
+    'upload_content_length' => 143,
+    'starttransfer_time' => 0.0436310000000000031139535394686390645802021026611328125,
+    'redirect_time' => 0,
+    'redirect_url' => '',
+    'primary_ip' => '46.235.53.67',
+    'certinfo' => 
+    array (
+    ),
+    'primary_port' => 443,
+    'local_ip' => '87.236.20.87',
+    'local_port' => 63009,
+  ),
+  'params' => 
+  array (
+    'method' => 'imbot.message.add',
+    'params' => 
+    array (
+      'DIALOG_ID' => 36,
+      'MESSAGE' => '������� �������!',
+      'auth' => '89ad3d64006311ac006311a8000000010000073a8186baf38bf73fc3c76a781d9ef445',
+    ),
+  ),
+  'result' => 
+  array (
+    'error' => 'ERROR_NO_ACCESS',
+    'error_description' => 'Вы не можете отправлять сообщения указанному получателю',
+  ),
+)

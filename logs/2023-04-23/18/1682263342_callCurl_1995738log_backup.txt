@@ -1,0 +1,60 @@
+array (
+  'url' => 'https://b24-am5g24.bitrix24.ru/rest/imbot.message.add.json',
+  'info' => 
+  array (
+    'url' => 'https://b24-am5g24.bitrix24.ru/rest/imbot.message.add.json',
+    'content_type' => 'application/json; charset=utf-8',
+    'http_code' => 200,
+    'header_size' => 1192,
+    'request_size' => 194,
+    'filetime' => -1,
+    'ssl_verify_result' => 0,
+    'redirect_count' => 0,
+    'total_time' => 0.1669519999999999892992263994528912007808685302734375,
+    'namelookup_time' => 0.0008329999999999999731048472284555828082375228404998779296875,
+    'connect_time' => 0.01048999999999999932498440102790482342243194580078125,
+    'pretransfer_time' => 0.044216999999999999360067448606059770099818706512451171875,
+    'size_upload' => 131,
+    'size_download' => 290,
+    'speed_download' => 1746,
+    'speed_upload' => 789,
+    'download_content_length' => -1,
+    'upload_content_length' => 131,
+    'starttransfer_time' => 0.044240000000000001545430450278217904269695281982421875,
+    'redirect_time' => 0,
+    'redirect_url' => '',
+    'primary_ip' => '195.208.185.4',
+    'certinfo' => 
+    array (
+    ),
+    'primary_port' => 443,
+    'local_ip' => '87.236.20.87',
+    'local_port' => 43147,
+  ),
+  'params' => 
+  array (
+    'method' => 'imbot.message.add',
+    'params' => 
+    array (
+      'BOT_ID' => 10,
+      'DIALOG_ID' => 'chat8',
+      'MESSAGE' => 'ÐÎÌÀØÊÀ',
+      'auth' => '7759456400633ad800633aca000000010000074ae13dde5fc83d2b412d7ba13782cc04',
+    ),
+  ),
+  'result' => 
+  array (
+    'result' => 32,
+    'time' => 
+    array (
+      'start' => 1682263342.5775051116943359375,
+      'finish' => 1682263342.653420925140380859375,
+      'duration' => 0.075915813446044921875,
+      'processing' => 0.033875942230224609375,
+      'date_start' => '2023-04-23T18:22:22+03:00',
+      'date_finish' => '2023-04-23T18:22:22+03:00',
+      'operating_reset_at' => 1682263942,
+      'operating' => 0.1630229949951171875,
+    ),
+  ),
+)

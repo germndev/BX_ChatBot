@@ -1,0 +1,60 @@
+array (
+  'url' => 'https://pechenki78.bitrix24.ru/rest/imbot.message.add.json',
+  'info' => 
+  array (
+    'url' => 'https://pechenki78.bitrix24.ru/rest/imbot.message.add.json',
+    'content_type' => 'application/json; charset=utf-8',
+    'http_code' => 200,
+    'header_size' => 1189,
+    'request_size' => 194,
+    'filetime' => -1,
+    'ssl_verify_result' => 0,
+    'redirect_count' => 0,
+    'total_time' => 0.1517630000000000090043528189198696054518222808837890625,
+    'namelookup_time' => 0.00097999999999999996835864379818303859792649745941162109375,
+    'connect_time' => 0.01077299999999999959021668161085472092963755130767822265625,
+    'pretransfer_time' => 0.0396900000000000030553337637684307992458343505859375,
+    'size_upload' => 130,
+    'size_download' => 290,
+    'speed_download' => 1920,
+    'speed_upload' => 860,
+    'download_content_length' => -1,
+    'upload_content_length' => 130,
+    'starttransfer_time' => 0.03973100000000000242561526420104200951755046844482421875,
+    'redirect_time' => 0,
+    'redirect_url' => '',
+    'primary_ip' => '89.208.228.119',
+    'certinfo' => 
+    array (
+    ),
+    'primary_port' => 443,
+    'local_ip' => '87.236.20.87',
+    'local_port' => 53995,
+  ),
+  'params' => 
+  array (
+    'method' => 'imbot.message.add',
+    'params' => 
+    array (
+      'BOT_ID' => 20,
+      'DIALOG_ID' => '1',
+      'MESSAGE' => '21432 вававы',
+      'auth' => 'a540456400633a58006320c800000001000007d5ea74e7c8483bbf4e91dea0d7f67251',
+    ),
+  ),
+  'result' => 
+  array (
+    'result' => 292,
+    'time' => 
+    array (
+      'start' => 1682256658.06873989105224609375,
+      'finish' => 1682256658.141067981719970703125,
+      'duration' => 0.072328090667724609375,
+      'processing' => 0.0403690338134765625,
+      'date_start' => '2023-04-23T16:30:58+03:00',
+      'date_finish' => '2023-04-23T16:30:58+03:00',
+      'operating_reset_at' => 1682257258,
+      'operating' => 0.206470966339111328125,
+    ),
+  ),
+)

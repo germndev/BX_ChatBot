@@ -1,0 +1,49 @@
+array (
+  'url' => 'https://pechenki78.bitrix24.ru/rest/imbot.message.add.json',
+  'info' => 
+  array (
+    'url' => 'https://pechenki78.bitrix24.ru/rest/imbot.message.add.json',
+    'content_type' => 'application/json; charset=utf-8',
+    'http_code' => 400,
+    'header_size' => 858,
+    'request_size' => 194,
+    'filetime' => -1,
+    'ssl_verify_result' => 0,
+    'redirect_count' => 0,
+    'total_time' => 0.192776000000000002909672502937610261142253875732421875,
+    'namelookup_time' => 0.031739999999999997382094107933880877681076526641845703125,
+    'connect_time' => 0.04392000000000000070610184366159955970942974090576171875,
+    'pretransfer_time' => 0.0827279999999999959836571861160336993634700775146484375,
+    'size_upload' => 147,
+    'size_download' => 302,
+    'speed_download' => 1572,
+    'speed_upload' => 765,
+    'download_content_length' => -1,
+    'upload_content_length' => 147,
+    'starttransfer_time' => 0.082791000000000003478106691545690409839153289794921875,
+    'redirect_time' => 0,
+    'redirect_url' => '',
+    'primary_ip' => '89.208.228.119',
+    'certinfo' => 
+    array (
+    ),
+    'primary_port' => 443,
+    'local_ip' => '87.236.20.87',
+    'local_port' => 58391,
+  ),
+  'params' => 
+  array (
+    'method' => 'imbot.message.add',
+    'params' => 
+    array (
+      'DIALOG_ID' => 'chat10',
+      'MESSAGE' => '������� �������!',
+      'auth' => 'ecee3f64006320cc006320c800000001000007becbb0739089bd31ff092344b370d084',
+    ),
+  ),
+  'result' => 
+  array (
+    'error' => 'CANCELED',
+    'error_description' => 'Вы не можете отправлять сообщения в указанный чат',
+  ),
+)

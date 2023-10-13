@@ -1,0 +1,59 @@
+array (
+  'url' => 'https://ruslangolovinov.bitrix24.ru/rest/imbot.message.add.json',
+  'info' => 
+  array (
+    'url' => 'https://ruslangolovinov.bitrix24.ru/rest/imbot.message.add.json',
+    'content_type' => 'application/json; charset=utf-8',
+    'http_code' => 200,
+    'header_size' => 1163,
+    'request_size' => 199,
+    'filetime' => -1,
+    'ssl_verify_result' => 0,
+    'redirect_count' => 0,
+    'total_time' => 0.16269400000000000527933252669754438102245330810546875,
+    'namelookup_time' => 0.0020490000000000000400512956133525221957825124263763427734375,
+    'connect_time' => 0.0121029999999999991755483819133587530814111232757568359375,
+    'pretransfer_time' => 0.04689100000000000212363460150299943052232265472412109375,
+    'size_upload' => 142,
+    'size_download' => 271,
+    'speed_download' => 1672,
+    'speed_upload' => 876,
+    'download_content_length' => -1,
+    'upload_content_length' => 142,
+    'starttransfer_time' => 0.0469279999999999974935604996062465943396091461181640625,
+    'redirect_time' => 0,
+    'redirect_url' => '',
+    'primary_ip' => '195.208.185.4',
+    'certinfo' => 
+    array (
+    ),
+    'primary_port' => 443,
+    'local_ip' => '87.236.20.87',
+    'local_port' => 50823,
+  ),
+  'params' => 
+  array (
+    'method' => 'imbot.message.add',
+    'params' => 
+    array (
+      'DIALOG_ID' => 1,
+      'MESSAGE' => 'Христос воскрес!',
+      'auth' => '01393d64006300960063007e00000001000007f31326d6cb957392478d6dc8b3da0997',
+    ),
+  ),
+  'result' => 
+  array (
+    'result' => 254,
+    'time' => 
+    array (
+      'start' => 1681730505.184834003448486328125,
+      'finish' => 1681730505.2534849643707275390625,
+      'duration' => 0.0686509609222412109375,
+      'processing' => 0.03007411956787109375,
+      'date_start' => '2023-04-17T14:21:45+03:00',
+      'date_finish' => '2023-04-17T14:21:45+03:00',
+      'operating_reset_at' => 1681731105,
+      'operating' => 0,
+    ),
+  ),
+)

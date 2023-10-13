@@ -1,0 +1,60 @@
+array (
+  'url' => 'https://b24-am5g24.bitrix24.ru/rest/imbot.message.add.json',
+  'info' => 
+  array (
+    'url' => 'https://b24-am5g24.bitrix24.ru/rest/imbot.message.add.json',
+    'content_type' => 'application/json; charset=utf-8',
+    'http_code' => 200,
+    'header_size' => 1192,
+    'request_size' => 194,
+    'filetime' => -1,
+    'ssl_verify_result' => 0,
+    'redirect_count' => 0,
+    'total_time' => 0.2009849999999999969890751572165754623711109161376953125,
+    'namelookup_time' => 0.00078600000000000002330080572932047289214096963405609130859375,
+    'connect_time' => 0.0104600000000000005473399511402021744288504123687744140625,
+    'pretransfer_time' => 0.062032999999999997864374989831048878841102123260498046875,
+    'size_upload' => 209,
+    'size_download' => 290,
+    'speed_download' => 1450,
+    'speed_upload' => 1045,
+    'download_content_length' => -1,
+    'upload_content_length' => 209,
+    'starttransfer_time' => 0.06205600000000000004973799150320701301097869873046875,
+    'redirect_time' => 0,
+    'redirect_url' => '',
+    'primary_ip' => '46.235.53.69',
+    'certinfo' => 
+    array (
+    ),
+    'primary_port' => 443,
+    'local_ip' => '87.236.20.87',
+    'local_port' => 19575,
+  ),
+  'params' => 
+  array (
+    'method' => 'imbot.message.add',
+    'params' => 
+    array (
+      'BOT_ID' => 10,
+      'DIALOG_ID' => 'chat8',
+      'MESSAGE' => 'ֿנטגוע! ׀־ְּ״Êְ דמעמג! 1234.00 ִמככאנ ׁ״ְ',
+      'auth' => '7759456400633ad800633aca000000010000074ae13dde5fc83d2b412d7ba13782cc04',
+    ),
+  ),
+  'result' => 
+  array (
+    'result' => 28,
+    'time' => 
+    array (
+      'start' => 1682263119.0577280521392822265625,
+      'finish' => 1682263119.145526885986328125,
+      'duration' => 0.0877988338470458984375,
+      'processing' => 0.044353008270263671875,
+      'date_start' => '2023-04-23T18:18:39+03:00',
+      'date_finish' => '2023-04-23T18:18:39+03:00',
+      'operating_reset_at' => 1682263719,
+      'operating' => 0.1630229949951171875,
+    ),
+  ),
+)

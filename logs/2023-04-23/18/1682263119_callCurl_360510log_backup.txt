@@ -1,0 +1,60 @@
+array (
+  'url' => 'https://b24-am5g24.bitrix24.ru/rest/imbot.message.add.json',
+  'info' => 
+  array (
+    'url' => 'https://b24-am5g24.bitrix24.ru/rest/imbot.message.add.json',
+    'content_type' => 'application/json; charset=utf-8',
+    'http_code' => 200,
+    'header_size' => 1191,
+    'request_size' => 194,
+    'filetime' => -1,
+    'ssl_verify_result' => 0,
+    'redirect_count' => 0,
+    'total_time' => 0.1825859999999999983000265046939603053033351898193359375,
+    'namelookup_time' => 0.0006369999999999999794331184688189750886522233486175537109375,
+    'connect_time' => 0.01169000000000000073774319986341652111150324344635009765625,
+    'pretransfer_time' => 0.0473719999999999974438225081030395813286304473876953125,
+    'size_upload' => 210,
+    'size_download' => 289,
+    'speed_download' => 1587,
+    'speed_upload' => 1153,
+    'download_content_length' => -1,
+    'upload_content_length' => 210,
+    'starttransfer_time' => 0.04739999999999999769073610877967439591884613037109375,
+    'redirect_time' => 0,
+    'redirect_url' => '',
+    'primary_ip' => '46.235.53.67',
+    'certinfo' => 
+    array (
+    ),
+    'primary_port' => 443,
+    'local_ip' => '87.236.20.87',
+    'local_port' => 58277,
+  ),
+  'params' => 
+  array (
+    'method' => 'imbot.message.add',
+    'params' => 
+    array (
+      'BOT_ID' => 10,
+      'DIALOG_ID' => 'chat10',
+      'MESSAGE' => 'ֿנטגוע! ׀־ְּ״Êְ דמעמג! 1234.00 ִמככאנ ׁ״ְ',
+      'auth' => '7759456400633ad800633aca000000010000074ae13dde5fc83d2b412d7ba13782cc04',
+    ),
+  ),
+  'result' => 
+  array (
+    'result' => 30,
+    'time' => 
+    array (
+      'start' => 1682263119.255422115325927734375,
+      'finish' => 1682263119.329586029052734375,
+      'duration' => 0.074163913726806640625,
+      'processing' => 0.03139781951904296875,
+      'date_start' => '2023-04-23T18:18:39+03:00',
+      'date_finish' => '2023-04-23T18:18:39+03:00',
+      'operating_reset_at' => 1682263719,
+      'operating' => 0.1630229949951171875,
+    ),
+  ),
+)
